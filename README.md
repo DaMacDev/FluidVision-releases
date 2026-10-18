@@ -1,30 +1,30 @@
-# IpStreamz
+# FluidVision
 
 A family TV app for an **Xtream Codes** IPTV subscription: films, series and TV channels, with
 profiles, a kids' guardrail, Resume, My list, downloads and history that follows you between
 the family's phones, Android TVs and Windows PCs.
 
-You need **your own Xtream subscription** from your IPTV provider. IpStreamz comes with no
+You need **your own Xtream subscription** from your IPTV provider. FluidVision comes with no
 channels, no account and no server. The app is free and asks for nothing else.
 
 ## 1. Install
 
 The newest version is always on the
-[latest release](https://github.com/Vodkadav/IpStreamz-releases/releases/latest) page.
+[latest release](https://github.com/DaMacDev/FluidVision-releases/releases/latest) page.
 
 **Android phone or tablet**
-1. On the phone, open the latest release page and tap **IpStreamz.apk**.
+1. On the phone, open the latest release page and tap **FluidVision.apk**.
 2. Open the downloaded file. If Android asks, allow your browser or Files app to
    **install unknown apps**, then tap **Install**.
 
 **Android TV / Google TV**
 1. On the TV, install the free app **Downloader** (by AFTVnews) from the Play Store.
 2. In Downloader, enter this address and press Go:
-   `https://github.com/Vodkadav/IpStreamz-releases/releases/latest/download/IpStreamz.apk`
+   `https://github.com/DaMacDev/FluidVision-releases/releases/latest/download/FluidVision.apk`
 3. Allow Downloader to install unknown apps when asked, then **Install**.
 
 **Windows PC**
-1. Download **IpStreamz-Setup.exe** from the latest release and run it.
+1. Download **FluidVision-Setup.exe** from the latest release and run it.
 2. If Windows shows "Windows protected your PC", click **More info → Run anyway**.
    It installs for your user only and needs no administrator.
 
